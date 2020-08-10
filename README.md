@@ -1,4 +1,6 @@
 # qst-cgan
 Quantum state tomography with conditional generative adversarial networks
 
-The full code to reproduce []() will be available here soon.
+<img src="examples/images/qst-cgan.png", width=800>
+
+The full code to reproduce [https://arxiv.org/abs/2008.03240](https://arxiv.org/abs/2008.03240) will be available here soon.
